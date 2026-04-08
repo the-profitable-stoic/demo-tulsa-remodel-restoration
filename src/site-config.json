@@ -1,0 +1,550 @@
+{
+  "business": {
+    "name": "Tulsa Remodel & Restoration",
+    "phone": "+19182824477",
+    "category": "remodeling contractor",
+    "city": "Tulsa",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Tulsa Remodel & Restoration: Built to Last",
+      "heroSubline": "We handle the toughest remodeling and restoration challenges in Tulsa, OK. Get it done right with our experienced team.",
+      "aboutTitle": "Tulsa's Trusted Remodeling Experts",
+      "aboutText": [
+        "Tulsa Remodel & Restoration started with a simple mission: to provide reliable, high-quality remodeling services to our neighbors in Tulsa. We saw a need for contractors who understood the unique challenges of our local housing stock, from the historic homes in Maple Ridge to the newer builds in the suburbs.",
+        "Our approach is straightforward: we listen to your needs, develop a clear plan, and execute it with precision and care. We value honesty, integrity, and a commitment to exceeding your expectations. We are not afraid of the complex projects that other contractors might shy away from.",
+        "We're proud to be a part of the Tulsa community, and we believe in giving back. We regularly participate in local initiatives and support organizations that make Tulsa a better place to live. When you choose us, you're supporting a local business that's invested in our city's future."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Our team has decades of combined experience in all aspects of remodeling and restoration."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Tulsa's unique architectural styles, weather patterns, and building codes."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide detailed, upfront estimates with no hidden fees or surprises."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "We use only the highest-quality materials and meticulous attention to detail to ensure lasting results."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Tulsa Home?",
+      "ctaSubline": "Contact us today for a free consultation and let us bring your vision to life."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transform your kitchen into the heart of your Tulsa home.",
+        "description": "The kitchen is the central hub of any home, and we understand its importance. Whether you're looking for a complete overhaul or a simple refresh, Tulsa Remodel & Restoration can bring your dream kitchen to life. We specialize in custom cabinetry, countertop installation (granite, quartz, marble), backsplash design, flooring, lighting, and appliance upgrades. We handle everything from demolition to final touches, ensuring a seamless and stress-free remodeling experience. We also account for the unique needs of Tulsa homes, like ensuring proper ventilation to combat humidity and selecting durable materials that can withstand seasonal temperature fluctuations. We work with you to create a functional and beautiful space that reflects your personal style and meets your family's needs. We pride ourselves on delivering exceptional results that enhance the value of your home.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your vision, budget, and timeline.",
+          "Step 2: Planning and Permitting – We create detailed plans and obtain necessary permits.",
+          "Step 3: Demolition and Construction – We carefully remove existing structures and begin building your new kitchen.",
+          "Step 4: Installation and Finishing – We install cabinets, countertops, appliances, and other fixtures, completing the project with meticulous attention to detail."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality and flow",
+          "Enhanced aesthetic appeal",
+          "Customized design to fit your lifestyle"
+        ],
+        "faq": [
+          {
+            "question": "How long does a kitchen remodel typically take?",
+            "answer": "The duration of a kitchen remodel depends on the scope of the project, but most projects take between 4-8 weeks. We will provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do you handle the plumbing and electrical work?",
+            "answer": "Yes, we have licensed plumbers and electricians on our team who will handle all necessary plumbing and electrical work to code."
+          },
+          {
+            "question": "What types of countertops do you offer?",
+            "answer": "We offer a wide variety of countertop options, including granite, quartz, marble, and laminate. We can help you choose the best material for your budget and aesthetic preferences."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Create a spa-like retreat in your Tulsa home with our expert bathroom remodeling services.",
+        "description": "From simple updates to complete transformations, Tulsa Remodel & Restoration can help you create the bathroom of your dreams. We understand the importance of a functional and relaxing bathroom space. Our services include shower and tub replacements, vanity installations, toilet upgrades, flooring, tiling, and lighting. We pay close attention to detail, ensuring proper waterproofing and ventilation to prevent moisture damage, which is crucial in Tulsa's humid climate. We also specialize in accessibility modifications, such as walk-in showers and grab bars, to create a safe and comfortable bathroom for all. We pride ourselves on delivering exceptional results that enhance the value of your home and improve your daily life. We work with you every step of the way to ensure your vision becomes a reality.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your vision, budget, and desired features.",
+          "Step 2: Planning and Permitting – We develop detailed plans and obtain necessary permits.",
+          "Step 3: Demolition and Reconstruction – We carefully remove existing fixtures and begin building your new bathroom.",
+          "Step 4: Installation and Finishing – We install new fixtures, tile, and lighting, completing the project with meticulous attention to detail."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality and comfort",
+          "Enhanced aesthetic appeal",
+          "Water conservation through modern fixtures"
+        ],
+        "faq": [
+          {
+            "question": "How long does a bathroom remodel typically take?",
+            "answer": "The duration of a bathroom remodel depends on the scope of the project, but most projects take between 2-5 weeks. We will provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do you handle the plumbing and electrical work?",
+            "answer": "Yes, we have licensed plumbers and electricians on our team who will handle all necessary plumbing and electrical work to code."
+          },
+          {
+            "question": "What type of ventilation do you recommend?",
+            "answer": "We recommend installing a high-quality exhaust fan to remove moisture and prevent mold growth, especially in Tulsa's humid climate."
+          }
+        ]
+      },
+      {
+        "slug": "basement-finishing",
+        "name": "Basement Finishing",
+        "shortDescription": "Unlock the potential of your Tulsa basement with our professional finishing services.",
+        "description": "Don't let your basement sit unused! Tulsa Remodel & Restoration can transform your unfinished basement into a valuable living space. Whether you envision a home theater, a game room, a home office, or an extra bedroom, we can make it happen. We handle all aspects of basement finishing, including framing, insulation, drywall, flooring, electrical, plumbing, and HVAC. We understand the importance of proper waterproofing and moisture control in Tulsa basements to prevent water damage and mold growth. We also ensure that all work is done to code and meets local building regulations. We pride ourselves on delivering exceptional results that enhance the value of your home and provide you with a functional and comfortable living space for years to come.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your vision, budget, and desired layout.",
+          "Step 2: Planning and Permitting – We develop detailed plans and obtain necessary permits.",
+          "Step 3: Framing and Insulation – We frame the walls and install insulation to create a comfortable and energy-efficient space.",
+          "Step 4: Electrical and Plumbing – We install electrical wiring, outlets, and plumbing fixtures as needed.",
+          "Step 5: Drywall and Finishing – We install drywall, paint, and flooring to complete the project."
+        ],
+        "benefits": [
+          "Increased living space",
+          "Increased home value",
+          "Enhanced comfort and functionality",
+          "Customized design to fit your needs"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit to finish my basement?",
+            "answer": "Yes, you typically need a permit to finish your basement in Tulsa. We will handle the permit application process for you."
+          },
+          {
+            "question": "How do you prevent moisture problems in basements?",
+            "answer": "We use a variety of methods to prevent moisture problems, including waterproofing the foundation, installing a vapor barrier, and ensuring proper ventilation."
+          },
+          {
+            "question": "What type of flooring is best for basements?",
+            "answer": "We recommend using waterproof or water-resistant flooring materials, such as tile, vinyl plank, or engineered hardwood, to prevent damage from moisture."
+          }
+        ]
+      },
+      {
+        "slug": "exterior-remodeling",
+        "name": "Exterior Remodeling",
+        "shortDescription": "Boost your curb appeal and protect your Tulsa home with our exterior remodeling services.",
+        "description": "Tulsa Remodel & Restoration offers a wide range of exterior remodeling services to enhance the beauty and functionality of your home. We specialize in siding replacement, window and door installations, roofing repairs and replacements, deck and patio construction, and painting. We understand the importance of protecting your home from the elements, especially in Tulsa's climate, which includes hot summers, cold winters, and the risk of tornadoes. We use high-quality materials and expert craftsmanship to ensure that your home is protected and looks its best. We also offer energy-efficient upgrades, such as insulated siding and energy-efficient windows, to help you save money on your energy bills. We are committed to delivering exceptional results that enhance the value of your home and improve your quality of life.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your vision, budget, and desired improvements.",
+          "Step 2: Planning and Permitting – We develop detailed plans and obtain necessary permits.",
+          "Step 3: Material Selection – We help you choose the best materials for your project, considering durability, aesthetics, and budget.",
+          "Step 4: Construction and Installation – We carefully install new siding, windows, doors, roofing, or other exterior features."
+        ],
+        "benefits": [
+          "Increased curb appeal",
+          "Increased home value",
+          "Improved energy efficiency",
+          "Protection from the elements"
+        ],
+        "faq": [
+          {
+            "question": "How often should I replace my siding?",
+            "answer": "The lifespan of your siding depends on the material, but most siding materials last between 20-50 years. We can inspect your siding and recommend replacement if it is damaged or deteriorating."
+          },
+          {
+            "question": "What type of roofing material is best for Tulsa?",
+            "answer": "Asphalt shingles are a popular and cost-effective roofing material for Tulsa homes. We also offer other roofing options, such as metal and tile."
+          },
+          {
+            "question": "Do you offer warranties on your work?",
+            "answer": "Yes, we offer warranties on all of our work. The length of the warranty varies depending on the type of project."
+          }
+        ]
+      },
+      {
+        "slug": "painting-services",
+        "name": "Painting Services",
+        "shortDescription": "Give your Tulsa home a fresh new look with our professional interior and exterior painting services.",
+        "description": "Tulsa Remodel & Restoration provides professional painting services for both interior and exterior projects. Our experienced painters use high-quality paints and meticulous techniques to ensure a flawless finish. We handle everything from surface preparation to final cleanup, ensuring a smooth and stress-free painting experience. We understand the importance of proper preparation, especially in older Tulsa homes that may have lead paint or other issues. We take all necessary precautions to protect your health and safety. We also offer color consultation services to help you choose the perfect colors for your home. Whether you're looking to refresh a single room or paint the entire exterior of your home, we are committed to delivering exceptional results that enhance the beauty and value of your property.",
+        "process": [
+          "Step 1: Consultation and Color Selection – We discuss your vision and help you choose the perfect colors.",
+          "Step 2: Surface Preparation – We clean, sand, and prime the surfaces to ensure proper paint adhesion.",
+          "Step 3: Painting – We apply high-quality paint using professional techniques for a smooth and even finish.",
+          "Step 4: Cleanup – We clean up the work area and dispose of all waste materials."
+        ],
+        "benefits": [
+          "Enhanced aesthetic appeal",
+          "Increased home value",
+          "Protection from the elements (exterior)",
+          "Improved indoor air quality (interior)"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to paint a room?",
+            "answer": "The time it takes to paint a room depends on the size of the room and the complexity of the project, but most rooms can be painted in 1-2 days."
+          },
+          {
+            "question": "Do you offer color consultation services?",
+            "answer": "Yes, we offer color consultation services to help you choose the perfect colors for your home."
+          },
+          {
+            "question": "What type of paint do you use?",
+            "answer": "We use high-quality paints from reputable brands, such as Sherwin-Williams and Benjamin Moore."
+          }
+        ]
+      },
+      {
+        "slug": "restoration-services",
+        "name": "Restoration Services",
+        "shortDescription": "Recover from Tulsa's storms with our expert damage restoration services.",
+        "description": "Tulsa Remodel & Restoration provides comprehensive restoration services for homes and businesses damaged by water, fire, or storms. We understand the stress and disruption that these events can cause, and we are committed to providing prompt and reliable service to help you get back on your feet. Our services include water extraction, mold remediation, fire damage cleanup, smoke removal, and structural repairs. We work with all major insurance companies to ensure a smooth and hassle-free claims process. We also understand the unique challenges of restoring historic homes in Tulsa, such as those in the Brookside and Cherry Street neighborhoods. We use specialized techniques and materials to preserve the architectural integrity of these homes while restoring them to their original condition. We are available 24/7 for emergency restoration services.",
+        "process": [
+          "Step 1: Emergency Response – We respond quickly to your call and assess the damage.",
+          "Step 2: Damage Assessment – We thoroughly assess the extent of the damage and develop a restoration plan.",
+          "Step 3: Water Extraction and Drying – We extract water and dry the affected areas to prevent mold growth.",
+          "Step 4: Cleaning and Sanitizing – We clean and sanitize the affected areas to remove contaminants.",
+          "Step 5: Restoration and Repairs – We restore and repair damaged structures and materials."
+        ],
+        "benefits": [
+          "Reduced property damage",
+          "Prevention of mold growth",
+          "Restoration of property to pre-loss condition",
+          "Assistance with insurance claims"
+        ],
+        "faq": [
+          {
+            "question": "How quickly should I respond to water damage?",
+            "answer": "You should respond to water damage as quickly as possible to prevent mold growth and further damage. Contact us immediately for emergency water extraction services."
+          },
+          {
+            "question": "Do you work with insurance companies?",
+            "answer": "Yes, we work with all major insurance companies to ensure a smooth and hassle-free claims process."
+          },
+          {
+            "question": "How long does the restoration process take?",
+            "answer": "The duration of the restoration process depends on the extent of the damage, but we will provide a detailed timeline during the initial assessment."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Tulsa",
+        "slug": "tulsa-ok",
+        "state": "OK",
+        "content": "Tulsa Remodel & Restoration is proud to serve the vibrant community of Tulsa, Oklahoma. We offer comprehensive remodeling and restoration services tailored to the unique architectural styles and needs of Tulsa homes. From historic renovations in downtown to modern updates in the suburbs, our team is dedicated to providing exceptional craftsmanship and customer satisfaction.\n\nWe understand the specific challenges and opportunities presented by Tulsa's climate and housing stock. Our experienced professionals are equipped to handle everything from weather-related damage repairs to complete home transformations. We are committed to enhancing the beauty and functionality of your Tulsa home.",
+        "localContext": "Tulsa is known for its art deco architecture, thriving arts scene, and friendly atmosphere. We are committed to serving our neighbors in Tulsa with integrity and professionalism.",
+        "nearbyAreas": [
+          "Broken Arrow",
+          "Owasso",
+          "Sand Springs"
+        ]
+      },
+      {
+        "city": "Broken Arrow",
+        "slug": "broken-arrow-ok",
+        "state": "OK",
+        "content": "Tulsa Remodel & Restoration extends its expert remodeling and restoration services to Broken Arrow, Oklahoma. As a rapidly growing city with a diverse range of homes, Broken Arrow residents can rely on us for top-quality workmanship and personalized service. Whether you're looking to update your kitchen, remodel your bathroom, or restore your home after damage, we're here to help.\n\nWe are familiar with the specific building codes and regulations in Broken Arrow, ensuring that all our projects are completed safely and in compliance. Our goal is to exceed your expectations and create a living space that you'll love for years to come. We focus on customer satisfaction and communication throughout the entire process.",
+        "localContext": "Broken Arrow is a family-friendly city known for its excellent schools and community events. We are proud to serve the families of Broken Arrow.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Coweta",
+          "Bixby"
+        ]
+      },
+      {
+        "city": "Owasso",
+        "slug": "owasso-ok",
+        "state": "OK",
+        "content": "Tulsa Remodel & Restoration proudly serves the growing community of Owasso, Oklahoma. We provide a wide range of remodeling and restoration services to meet the diverse needs of Owasso homeowners. From kitchen and bathroom remodels to whole-house renovations, we have the expertise and experience to bring your vision to life.\n\nWe are dedicated to providing exceptional customer service and quality workmanship. Our team is committed to using the best materials and techniques to ensure that your project is completed to the highest standards. We understand the importance of clear communication and transparency throughout the entire process.",
+        "localContext": "Owasso is a vibrant and welcoming city with a strong sense of community. We are committed to providing our neighbors in Owasso with reliable and trustworthy remodeling services.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Collinsville",
+          "Skiatook"
+        ]
+      },
+      {
+        "city": "Sand Springs",
+        "slug": "sand-springs-ok",
+        "state": "OK",
+        "content": "Tulsa Remodel & Restoration is pleased to offer our remodeling and restoration services to the residents of Sand Springs, Oklahoma. We understand the unique character of Sand Springs homes and are committed to providing tailored solutions to meet your specific needs. Whether you're looking to update your home's interior or restore its exterior, we're here to help.\n\nWe are familiar with the local building codes and regulations in Sand Springs, ensuring that all our projects are completed safely and in compliance. Our goal is to exceed your expectations and create a living space that you'll love for years to come.",
+        "localContext": "Sand Springs is a community with a rich history and a strong sense of pride. We are honored to serve the residents of Sand Springs.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Sapulpa",
+          "Mannford"
+        ]
+      },
+      {
+        "city": "Bixby",
+        "slug": "bixby-ok",
+        "state": "OK",
+        "content": "Tulsa Remodel & Restoration extends its high-quality remodeling and restoration services to Bixby, Oklahoma. Known for its beautiful homes and family-friendly environment, Bixby residents can depend on us for exceptional craftsmanship and personalized service. From updating kitchens and bathrooms to complete home makeovers, we are dedicated to bringing your remodeling dreams to life.\n\nWe understand the importance of maintaining the integrity and beauty of Bixby homes. Our experienced team uses only the best materials and techniques to ensure lasting results. We are committed to providing clear communication and transparency throughout every project.",
+        "localContext": "Bixby is a growing community with a strong emphasis on education and family values. We are proud to serve the homeowners of Bixby with reliable and trustworthy services.",
+        "nearbyAreas": [
+          "Broken Arrow",
+          "Jenks",
+          "Glenpool"
+        ]
+      },
+      {
+        "city": "Jenks",
+        "slug": "jenks-ok",
+        "state": "OK",
+        "content": "Tulsa Remodel & Restoration is proud to serve the residents of Jenks, Oklahoma, with our comprehensive remodeling and restoration services. Jenks is known for its excellent schools and beautiful homes, and we are committed to providing top-quality workmanship to enhance the value and beauty of your property. Whether you're looking to update your kitchen, remodel your bathroom, or restore your home after damage, we're here to assist you.\n\nWe understand the specific needs of Jenks homeowners and are dedicated to providing personalized service and attention to detail. Our team is experienced in working with a variety of architectural styles and is committed to exceeding your expectations.",
+        "localContext": "Jenks is a thriving community with a strong sense of pride and a commitment to excellence. We are dedicated to serving our neighbors in Jenks with integrity and professionalism.",
+        "nearbyAreas": [
+          "Bixby",
+          "Glenpool",
+          "Tulsa"
+        ]
+      },
+      {
+        "city": "Sapulpa",
+        "slug": "sapulpa-ok",
+        "state": "OK",
+        "content": "Tulsa Remodel & Restoration proudly serves Sapulpa, Oklahoma, offering a wide range of remodeling and restoration services to meet the diverse needs of this historic community. Sapulpa residents can rely on us for quality workmanship and personalized attention to detail, whether you're looking to update an older home or modernize a newer residence.\n\nWe understand the unique character of Sapulpa homes and are dedicated to providing tailored solutions to meet your specific needs. Our team is committed to using the best materials and techniques to ensure that your project is completed to the highest standards.",
+        "localContext": "Sapulpa is a town rich in history with a close-knit community feel. We take pride in serving the homeowners of Sapulpa.",
+        "nearbyAreas": [
+          "Sand Springs",
+          "Glenpool",
+          "Bristow"
+        ]
+      },
+      {
+        "city": "Glenpool",
+        "slug": "glenpool-ok",
+        "state": "OK",
+        "content": "Tulsa Remodel & Restoration provides expert remodeling and restoration services to the residents of Glenpool, Oklahoma. We offer a variety of services, from kitchen and bath renovations to whole-house remodeling projects. Our skilled team is dedicated to delivering high-quality results tailored to the unique needs of Glenpool homeowners.\n\nWe understand the importance of communication and collaboration throughout the remodeling process. From the initial consultation to the final walkthrough, we work closely with you to ensure your vision is realized. We are committed to exceeding your expectations and creating a space you'll love.",
+        "localContext": "Glenpool is a growing city known for its family-friendly environment and community spirit. We are honored to serve the residents of Glenpool.",
+        "nearbyAreas": [
+          "Jenks",
+          "Sapulpa",
+          "Bixby"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Kitchen Remodeling",
+        "text": "Tulsa Remodel & Restoration did an amazing job on our kitchen remodel! They helped us design a beautiful and functional space that we absolutely love. The team was professional, courteous, and always on time. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Bathroom Remodeling",
+        "text": "We hired Tulsa Remodel & Restoration to remodel our master bathroom, and we're very happy with the results. The quality of workmanship is excellent, and they were very responsive to our questions and concerns. There were a couple of minor delays, but they communicated them well.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Basement Finishing",
+        "text": "Tulsa Remodel & Restoration transformed our unfinished basement into a fantastic home theater and game room. The process was smooth and efficient, and the team was very knowledgeable and helpful. We're so glad we chose them!",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "Exterior Remodeling",
+        "text": "Our siding was damaged in a recent storm, and Tulsa Remodel & Restoration did an excellent job replacing it. They were quick, efficient, and the new siding looks great. They even helped us navigate the insurance claim process.",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Painting Services",
+        "text": "We hired Tulsa Remodel & Restoration to paint the interior of our home, and we're very pleased with the results. The painters were professional and meticulous, and they did a great job of protecting our furniture and belongings. The color looks fantastic!",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Restoration Services",
+        "text": "After a pipe burst in our home, Tulsa Remodel & Restoration was there to help. They extracted the water, dried the affected areas, and repaired the damage quickly and efficiently. They were a lifesaver!",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Tulsa Remodel | Restoration Contractor",
+        "description": "Top-rated Tulsa remodeling contractor. Kitchen, bath, basement, exterior, restoration. Free quotes!"
+      },
+      "about": {
+        "title": "About Tulsa Remodel & Restoration",
+        "description": "Learn about Tulsa Remodel & Restoration's values, experience, and commitment to the Tulsa community."
+      },
+      "services": {
+        "title": "Tulsa Remodeling Services",
+        "description": "Full-service remodeling in Tulsa: kitchen, bath, basement, exterior, painting, restoration. Quality work guaranteed."
+      },
+      "contact": {
+        "title": "Contact Tulsa Remodel & Restoration",
+        "description": "Get in touch with Tulsa Remodel & Restoration for a free consultation and estimate. Call or email us today!"
+      },
+      "reviews": {
+        "title": "Tulsa Remodel Customer Reviews",
+        "description": "Read reviews from satisfied customers of Tulsa Remodel & Restoration. See why we're Tulsa's trusted contractor."
+      },
+      "service-areas": {
+        "title": "Service Areas",
+        "description": "Tulsa Remodel & Restoration serves Tulsa and surrounding areas. Find out if we service your city!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "basement-finishing": "/images/service-basement-finishing.webp",
+      "exterior-remodeling": "/images/service-exterior-remodeling.webp",
+      "painting-services": "/images/service-painting-services.webp",
+      "restoration-services": "/images/service-restoration-services.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "basement-finishing": {
+        "src": "/images/service-basement-finishing.webp",
+        "srcset": "/images/service-basement-finishing-400w.webp 400w, /images/service-basement-finishing-800w.webp 800w, /images/service-basement-finishing-1200w.webp 1200w, /images/service-basement-finishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "exterior-remodeling": {
+        "src": "/images/service-exterior-remodeling.webp",
+        "srcset": "/images/service-exterior-remodeling-400w.webp 400w, /images/service-exterior-remodeling-800w.webp 800w, /images/service-exterior-remodeling-1200w.webp 1200w, /images/service-exterior-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "painting-services": {
+        "src": "/images/service-painting-services.webp",
+        "srcset": "/images/service-painting-services-400w.webp 400w, /images/service-painting-services-800w.webp 800w, /images/service-painting-services-1200w.webp 1200w, /images/service-painting-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "restoration-services": {
+        "src": "/images/service-restoration-services.webp",
+        "srcset": "/images/service-restoration-services-400w.webp 400w, /images/service-restoration-services-800w.webp 800w, /images/service-restoration-services-1200w.webp 1200w, /images/service-restoration-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
